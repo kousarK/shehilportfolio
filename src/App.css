@@ -25,7 +25,19 @@
   padding: 30px;
 }
 
-.Head-Link{
+.Tile-style {
+  flex: 1;
+  height: 33vw;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: calc(10px + 2vmin);
+  font-weight: 600;
+}
+
+.Head-Link {
   font-size: 2vh;
   padding: 10px;
   color: black;
